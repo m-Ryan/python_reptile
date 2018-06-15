@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'ledu',
         'USER': 'root',
         'PASSWORD': '密码',
-        'HOST':'193.112.79.90',
+        'HOST':'localhost',
         'PORT':'3306',
     }
 }
